@@ -24,4 +24,23 @@
 
 /* Positioning Classes */
 
+.shadow1 {
+  grid-area: top-left;
+}
+
+.shadow2 {
+  grid-area: top-right;
+}
+
+.shadow3 {
+  grid-area: btm-left;
+}
+
+.shadow4 {
+  grid-area: btm-mid;
+}
+
+.shadow5 {
+  grid-area: btm-right;
+}
 
