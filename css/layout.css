@@ -54,3 +54,13 @@
   grid-gap: 10px;
   padding: 10px;
 }
+
+.border_right {
+  width: 33%;
+}
+
+.wrapper-flex {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
